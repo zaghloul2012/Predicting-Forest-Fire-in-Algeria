@@ -41,7 +41,7 @@ And our results for models based on the selected features
 ![Selected Feature Results](/pictures/boxplot_features.png "Selected Feature Results")
 
 And our results for models based on the all features 
-![All Feature Results](/pictures/all_features.png"All Feature Results")
+![All Feature Results](/pictures/all_features.png "All Feature Results")
 
 
 ## Acknowledgements
