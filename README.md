@@ -37,11 +37,11 @@ We developed different models most of them can beat the one in the literature.
 Here are the results of the literature that we beat
 ![Literature Results](/pictures/literature.png "Literature Results")
 
-And our results for models based on the selected features 
-![Selected Feature Results](/pictures/'boxplot features'.png "Selected Feature Results")
+And our results for models based on the selected features
+![Selected Feature Results](/pictures/boxplot_features.png "Selected Feature Results")
 
 And our results for models based on the all features 
-![All Feature Results](/pictures/'all features'.png"All Feature Results")
+![All Feature Results](/pictures/'all_features'.png"All Feature Results")
 
 
 ## Acknowledgements
