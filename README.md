@@ -1,5 +1,5 @@
 
-# Student Performance 
+# Predicting Forest Fire in Algeria 
 
 ## Introduction
 Forest fire is a critical concern over the world, each year millions of hectares are destroyed all around the word. Algeria is one of the countries affected by this phenomenon, mainly in summerForest fires cause economic and ecological damage, as well as human life threat. Predicting forest fires is crucial to mitigate this threat.
